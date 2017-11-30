@@ -20,6 +20,6 @@ $.ajax({
       // handle response
     }
   });
-  // your code will go here
+
 
 });
